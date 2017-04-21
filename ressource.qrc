@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icon/new.jpg</file>
+        <file>icon/reload.jpg</file>
+    </qresource>
+</RCC>
